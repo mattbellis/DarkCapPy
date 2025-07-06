@@ -27,7 +27,6 @@ Planet_Radius = 6.371e8     # cm
 Planet_Mass   = 5.972e27    # grams
 Planet_Life   = yr2s(4.5e9) # 4.5 Gyr -> sec
 
-
 ##########################
 # Sun radius and mass
 ##########################
